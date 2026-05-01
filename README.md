@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full Stack Developer | Software Engineering Student | mobile app Devaloper
+Aspiring Software Developer | Python | Web Development  
+Building beginner to intermediate projects with focus on clean code and real-world applications.
 
 
 ## 🌐 Socials:
