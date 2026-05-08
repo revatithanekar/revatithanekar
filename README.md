@@ -1,4 +1,4 @@
-I am   RevatiThanekar
+I   am    **RevatiThanekar**
 # 💫 About Me:
 Aspiring Software Developer | Python | Web Development  
 Building beginner to intermediate projects with focus on clean code and real-world applications.
