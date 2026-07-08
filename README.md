@@ -1,27 +1,171 @@
-# 💫 About Me:
-Aspiring Software Developer | Python | Web Development<br>Building beginner to intermediate projects with focus on clean code and real-world applications.
+<div align="center">
 
+# 👋 Hi, I'm Revati Thanekar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/revatithanekar_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/revatithanekar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revatithanekar2006@gmail.com) 
+### 🚀 B.Tech Information Technology Student | Full Stack Developer in Progress | Python Enthusiast
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=revatithanekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=revatithanekar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=revatithanekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Full+Stack+Development;Python+%7C+JavaScript+%7C+React;Future+Software+Engineer" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revatithanekar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p>
+<a href="https://github.com/revatithanekar"><img src="https://komarev.com/ghpvc/?username=revatithanekar&style=for-the-badge&color=blue"/></a>
+<a href="https://github.com/revatithanekar?tab=followers"><img src="https://img.shields.io/github/followers/revatithanekar?style=for-the-badge"/></a>
+<a href="https://github.com/revatithanekar"><img src="https://img.shields.io/github/stars/revatithanekar?style=for-the-badge"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=revatithanekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=revatithanekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech Information Technology Student
+
+💻 Passionate about Full Stack Web Development
+
+🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Data Structures & Algorithms
+
+🚀 Building projects that solve real-world problems
+
+🎯 Goal
+
+Become a Software Engineer and contribute to impactful open-source projects.
+
+---
+
+# 🌐 Portfolio
+
+### 🔗 Portfolio Website
+
+https://revatithanekar.github.io/final-portfolio/
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Hostel Leave Management System
+Modern leave approval system with dashboard and authentication.
+
+---
+
+## 🌌 Celestia – Cosmic Astrology
+Responsive astrology web application with modern UI.
+
+---
+
+## 💬 Real-Time Chat Application
+Real-time messaging application.
+
+---
+
+## 📝 Interactive Quiz Application
+JavaScript quiz application with scoring.
+
+---
+
+## 🎓 E-Learning Platform
+Responsive learning platform UI.
+
+---
+
+## 💼 Personal Portfolio
+Modern developer portfolio.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+![](https://github-readme-stats.shion.dev/api?username=revatithanekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=revatithanekar&theme=dark&hide_border=fals)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=revatithanekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revatithanekar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/revatithanekar/revatithanekar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+
+
+# 📅 2026 Goals
+
+- ✅ Build 20+ Full Stack Projects
+- ✅ Solve 500+ DSA Problems
+- ✅ Master React & Node.js
+- ✅ Learn System Design Basics
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/revati-thanekar-455479316/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/revatithanekar_26">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://x.com/codelogs27799">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:revatithanekar2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Improve. Repeat."
+
+</div>
