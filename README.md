@@ -117,7 +117,7 @@ Modern developer portfolio.
 
 ---
 
-# 🐍 Contribution Snake
+
 
 <p align="center">
 
