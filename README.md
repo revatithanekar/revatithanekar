@@ -19,7 +19,7 @@
 # 💫 About Me
 
 🎓 B.Tech Information Technology Student
-
+    Hello! I'm Revati Thanekar, a Full-Stack Developer and AI Enthusiast based in India. I love engineering clean, scalable, and efficient software solutions. My core philosophy is Build → Deploy → Improve; I thrive on turning complex ideas into production-ready web applications.
 💻 Passionate about Full Stack Web Development
 
 🌱 Currently Learning
@@ -51,12 +51,10 @@ https://revatithanekar.github.io/
 ## 🏨 Hostel Leave Management System
 Modern leave approval system with dashboard and authentication.
 
----
 
 ## 🌌 Celestia – Cosmic Astrology
 Responsive astrology web application with modern UI.
 
----
 
 ## 💬 Real-Time Chat Application
 Real-time messaging application.
@@ -66,17 +64,17 @@ Real-time messaging application.
 ## 📝 Interactive Quiz Application
 JavaScript quiz application with scoring.
 
----
+
 
 ## 🎓 E-Learning Platform
 Responsive learning platform UI.
 
----
+
 
 ## 💼 Personal Portfolio
 Modern developer portfolio.
 
----
+
 
 # 💻 Tech Stack
 
