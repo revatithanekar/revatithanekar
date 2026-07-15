@@ -42,7 +42,7 @@ Become a Software Engineer and contribute to impactful open-source projects.
 
 ### 🔗 Portfolio Website
 
-https://revatithanekar.github.io/final-portfolio/
+https://revatithanekar.github.io/
 
 ---
 
