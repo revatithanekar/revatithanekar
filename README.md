@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Revati Thanekar
+# 👋 Hi, I'm Revati Rajesh  Thanekar
 
 ### 🚀 B.Tech Information Technology Student | Full Stack Developer in Progress | Python Enthusiast
 
